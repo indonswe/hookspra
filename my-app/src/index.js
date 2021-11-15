@@ -3,7 +3,8 @@ import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css"; 
 //import DataTable from "./components/DataTable";
 //import DemoRouter from "./components/DemoRouter";
-import Welcome from "./components/Welcome";
+//import Welcome from "./components/Welcome";
+import Skill from "./components/Skill";
 
-ReactDOM.render(<Welcome />, document.getElementById("root"));
+ReactDOM.render(<Skill />, document.getElementById("root"));
 //ReactDOM.render(<DataTable />, document.getElementById("root"));
